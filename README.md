@@ -775,7 +775,7 @@ UNIV  — Topological Order / Chiral Boson
 
 ---
 
-## Coda: One Geometry, One Name
+## Conclusion
 
 The three sub-modules of SHCY — Calabi-Yau holonomy (CYL), noncommutative spectral
 geometry (NCGL), and Strominger torsion (STL) — are not three separate additions to
